@@ -12,7 +12,7 @@
 ![Localização](https://img.shields.io/badge/📍_Barueri,_SP-1B3A6B?style=for-the-badge)
 ![Status](https://img.shields.io/badge/🟢_Aberto_a_oportunidades-22D3EE?style=for-the-badge&labelColor=1B3A6B)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sousag078@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sousag078@gmail.com&su=Contato%20via%20GitHub)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-sousa-cruz-a9b368122)
 
 </div>
@@ -125,7 +125,7 @@ Estou aberto a oportunidades e trocas de experiência em **logística, operaçõ
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Enviar_e--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sousag078@gmail.com)
+[![Gmail](https://img.shields.io/badge/Enviar_e--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sousag078@gmail.com&su=Contato%20via%20GitHub)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:1B3A6B&height=100&section=footer" width="100%" />
 
