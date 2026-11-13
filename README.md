@@ -77,6 +77,11 @@ Atualmente estou migrando para a área de **dados**, unindo minha vivência oper
     <td><b>Latin American Quality Institute</b><br/>Assistente Administrativo e Logístico<br/><sub>Planejamento e execução logística de eventos nacionais e internacionais, com participação em evento internacional e suporte operacional aos participantes.</sub></td>
   </tr>
   <tr>
+    <td><b>2024 - 2025</b></td>
+    <td><b>Confidencial</b><br/>Motorista Executivo<br/><sub>Responsável pelo transporte seguro, pontual e confidencial do contratante e de seus familiares,Conduzir o contratante em seus compromissos diários, pessoais e profissionais,Realizar o transporte das crianças para a escola e demais atividades extracurriculares,Executar compras semanais em supermercados e outros estabelecimentos, conforme necessidade,Efetuar a limpeza e manutenção preventiva dos veículos, garantindo sua conservação e bom funcionamento,
+Apoiar em tarefas externas e colaborar na limpeza e organização da área externa da residência,Desempenho minhas funções com profissionalismo, discrição e comprometimento, assegurando a comodidade, a segurança e a satisfação do contratante em todas as atividades desempenhadas.</sub></td>
+  </tr>
+  <tr>
     <td><b>2024</b></td>
     <td><b>Beecenter</b><br/>Analista de Suporte Técnico<br/><sub>Atendimento ao cliente, análise técnica de serviços de telecomunicações, gestão de chamados e acionamento de equipes técnicas.</sub></td>
   </tr>
@@ -121,7 +126,7 @@ Atualmente estou migrando para a área de **dados**, unindo minha vivência oper
 
 ## 📫 Vamos conversar?
 
-Estou aberto a oportunidades e trocas de experiência em **logística, operações, suporte e dados**.
+Estou aberto a oportunidades e trocas de experiência em **logística, administração, operações, suporte e dados**.
 
 <div align="center">
 
