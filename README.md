@@ -125,7 +125,7 @@ Estou aberto a oportunidades e trocas de experiência em **logística, operaçõ
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Enviar_e--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](emailto:sousag078@gmail.com)
+[![Gmail](https://img.shields.io/badge/Enviar_e--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sousag078@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:1B3A6B&height=100&section=footer" width="100%" />
 
