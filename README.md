@@ -113,20 +113,9 @@ Apoiar em tarefas externas e colaborar na limpeza e organização da área exter
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dar0ca&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dar0ca&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</div>
-
----
-
 ## 📫 Vamos conversar?
 
-Estou aberto a oportunidades e trocas de experiência em **logística, administração, operações, suporte e dados**.
+Estou aberto a oportunidades e trocas de experiência em **logística, administração, motorista executivo, operações, suporte e dados**.
 
 <div align="center">
 
